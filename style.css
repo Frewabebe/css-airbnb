@@ -1,0 +1,28 @@
+img{
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+.gOne{
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+ margin: auto;
+
+
+}
+
+.gTwo{
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+ margin: auto;
+
+
+}
+
+/*.gTwo{
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  }*/
